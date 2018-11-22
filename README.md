@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rakpurus/Test%20Project/_apis/build/status/rakeshp89.sample-app)](https://dev.azure.com/rakpurus/Test%20Project/_build/latest?definitionId=1)
 
 # Contributing
 
